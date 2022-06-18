@@ -173,7 +173,7 @@ Resources:
                 Resource: '*'
 
 Outputs:
-  WebAppADDR:
+  URL:
     Description: The url of the web app
     Value: 
       !Join
